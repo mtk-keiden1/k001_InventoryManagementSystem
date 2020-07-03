@@ -1,0 +1,2 @@
+# k001_InventoryManagementSystem
+改善コンテスト用。備品管理システム
