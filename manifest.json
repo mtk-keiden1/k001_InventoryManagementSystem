@@ -1,0 +1,13 @@
+{
+  "short_name": "計装備品",
+  "name": "MTE在庫･備品管理システム",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "img/icon_im_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}

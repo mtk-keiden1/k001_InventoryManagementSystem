@@ -1,0 +1,12 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "files.autoSave": "afterDelay",
+    "editor.tabSize": 2,
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Monokai Dimmed",
+    "files.autoGuessEncoding": true,
+    "editor.fontLigatures": null,
+    "files.associations": {
+    
+    }
+}
